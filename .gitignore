@@ -1,5 +1,8 @@
 devel/
 logs/
+log/
+install/
+.vscode/
 build/
 bin/
 lib/
